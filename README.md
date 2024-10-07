@@ -19,22 +19,20 @@ Node.js//
 MySQL
 Postman (for API testing)
 Installation Steps
-Clone the repository:
+Clone the repository:https://github.com/kumarnaveen76695/hyperledger-assest.git
 
 
 my git hub url :
-git clone :
-Navigate to the project directory:
+git clone :https://github.com/kumarnaveen76695/hyperledger-assest.git
+Navigate to the project directory:https://github.com/kumarnaveen76695/hyperledger-assest.git
 
-bash
-Copy code
-cd fabric-samples/asset-api
-Install dependencies:
+
 
 bash
 Copy code
 npm install
-Create a .env file in the root of the project to store your environment variables:
+
+Technologyes are used in the:Nodejs,postman,mysql these are used in this project.
 
 makefile
 Copy code
@@ -44,16 +42,7 @@ DB_PASSWORD=12345
 DB_DATABASE=hyperledger_db
 Run the server:
 
-bash
-Copy code
-node index.js
-Database Setup
-Log into MySQL and create the hyperledger_db database:
 
-sql
-Copy code
-CREATE DATABASE hyperledger_db;
-Create a table for storing assets in the database:
 
 sql
 
